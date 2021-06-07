@@ -12,7 +12,7 @@
             <h1>Stampame OFICCIAL</h1>
             <hr color="#a62eff">
     <h2>Esta es la pagina OFICCIAL de Stampame pronto podras comprar desde aqui</h2>
-<a href="https://www.facebook.com/stampame.spa/";> facebook</a>
+<a href="https://www.facebook.com/stampame.spa/"> facebook</a>
     <img src="Logo.jpg" width="390" height="600" alt="Foto StampameTM"/>
     <h2>Stampame estampado textil y decorativo personalizado</h2>
   <h6>bamoki20201-Productions</h6>
