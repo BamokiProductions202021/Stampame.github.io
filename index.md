@@ -5,10 +5,11 @@
     <meta name="tienda" content="">
     <title>Stampame</title>  
     <link rel="stylesheet" href="Stampame.css" type="text/css" media="all" /> 
-    <script type="text/javascript" src="Index.js"></script>
+    <script type="text/javascript" src="Index.js"><
+/script>
   </head>
   <body>
-<a href="MODOZZZ/Modozzz.html";> modo noche</a>
+<a href="Modozzz.html"> modo noche</a>
             <h1>Stampame OFICCIAL</h1>
             <hr color="#a62eff">
     <h2>Esta es la pagina OFICCIAL de Stampame pronto podras comprar desde aqui</h2>
