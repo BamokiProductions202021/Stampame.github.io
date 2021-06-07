@@ -9,7 +9,7 @@
 /script>
   </head>
   <body>
-<a href="Modozzz.html"> modo noche</a>
+<a href="Modozzz.Play"> modo noche</a>
             <h1>Stampame OFICCIAL</h1>
             <hr color="#a62eff">
     <h2>Esta es la pagina OFICCIAL de Stampame pronto podras comprar desde aqui</h2>
